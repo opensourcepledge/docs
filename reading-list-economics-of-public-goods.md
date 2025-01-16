@@ -14,6 +14,7 @@ Contact me for PDFs.
 
 * “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, see “wikipedia”
 * “[Markets without Symbolic Limits][symbolic]” by Brennan et al
+* “[Group Duties][group]” by Stephanie Collins
 
 ## General Points
 
@@ -26,3 +27,4 @@ Contact me for PDFs.
 [common-good]: https://plato.stanford.edu/entries/common-good/
 [symbolic]: https://www.journals.uchicago.edu/doi/abs/10.1086/680907
 [utopias]: https://www.versobooks.com/products/2143-envisioning-real-utopias
+[group]: https://global.oup.com/academic/product/group-duties-9780198840275?cc=us&lang=en&
