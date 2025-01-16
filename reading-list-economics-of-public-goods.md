@@ -4,22 +4,24 @@ Contact me for PDFs.
 
 ## Confirmed Helpful
 
-* [Positive production externalities][ppe]
-* “[The Economics of Technology Sharing: Open Source and Beyond][tirole]” by Josh Lerner and Jean Tirole, particularly p 102–105
+* [Positive production externalities][ppe].
+* “[The Economics of Technology Sharing: Open Source and Beyond][tirole]” by Josh Lerner and Jean Tirole, particularly p 102–105.
 * “[The Success of Open Source][weber]” by Steven Weber, particularly p 149–156 (gift economy, public good, positive network externalities); p 227–231 (property rights); p 231–243 (distributed innovation); p 243–248 (tragedy of the commons, positive externalities, meaningful work).
-* “Is There Such a Thing as a Gift Economy?” by Marcel Hénaff. In “[Gift Giving and the ‘Embedded’ Economy in the Ancient World][gori]” by Gori et al. See p 71–74 (on why “gift economy” can be an oxymoron)
-* “[The Common Good][common-good]” by Waheed Hussain; Margaret Kohn in the Stanford Encyclopedia of Philosophy
+* “Is There Such a Thing as a Gift Economy?” by Marcel Hénaff. In “[Gift Giving and the ‘Embedded’ Economy in the Ancient World][gori]” by Gori et al. See p 71–74 (on why “gift economy” can be an oxymoron).
+* “[The Common Good][common-good]” by Waheed Hussain; Margaret Kohn in the Stanford Encyclopedia of Philosophy.
+* “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, see section on Wikipedia starting p 201. The main useful
+  point is that, though people like Eric S Raymond think Open Source contributors are motivated by prestige, the example
+  of Wikipedia offers a counterpoint to this.
 
 ## Queue
 
-* “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, very promising, see section on Wikipedia starting p 201
-* “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy
-* “[Markets without Symbolic Limits][symbolic]” by Brennan et al
-* “[Group Duties][group]” by Stephanie Collins
+* “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy.
+* “[Markets without Symbolic Limits][symbolic]” by Brennan et al.
+* “[Group Duties][group]” by Stephanie Collins.
 
 ## General Points
 
-* Open Source is not a gift economy (see Weber p 149–156, Hénaff p 71–74)
+* Open Source is not a gift economy (see Weber p 149–156, Hénaff p 71–74).
 
 [ppe]: https://en.wikipedia.org/wiki/Externality#Positive
 [tirole]: https://www.aeaweb.org/articles?id=10.1257%2F0895330054048678
