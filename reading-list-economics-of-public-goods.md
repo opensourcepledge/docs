@@ -12,8 +12,8 @@ Contact me for PDFs.
 
 ## Queue
 
+* “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, very promising, see section on Wikipedia starting p 201
 * “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy
-* “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, see “wikipedia”
 * “[Markets without Symbolic Limits][symbolic]” by Brennan et al
 * “[Group Duties][group]” by Stephanie Collins
 
