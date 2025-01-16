@@ -8,10 +8,11 @@ Contact me for PDFs.
 * “[The Economics of Technology Sharing: Open Source and Beyond][tirole]” by Josh Lerner and Jean Tirole, particularly p 102–105
 * “[The Success of Open Source][weber]” by Steven Weber, particularly p 149–156 (gift economy, public good, positive network externalities); p 227–231 (property rights); p 231–243 (distributed innovation); p 243–248 (tragedy of the commons, positive externalities, meaningful work).
 * “Is There Such a Thing as a Gift Economy?” by Marcel Hénaff. In “[Gift Giving and the ‘Embedded’ Economy in the Ancient World][gori]” by Gori et al. See p 71–74 (on why “gift economy” can be an oxymoron)
-* “[The Common Good][common-good]” by Waheed Hussain, Margaret Kohn, in the Stanford Encyclopedia of Philosophy
+* “[The Common Good][common-good]” by Waheed Hussain; Margaret Kohn in the Stanford Encyclopedia of Philosophy
 
 ## Queue
 
+* “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy
 * “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, see “wikipedia”
 * “[Markets without Symbolic Limits][symbolic]” by Brennan et al
 * “[Group Duties][group]” by Stephanie Collins
@@ -28,3 +29,4 @@ Contact me for PDFs.
 [symbolic]: https://www.journals.uchicago.edu/doi/abs/10.1086/680907
 [utopias]: https://www.versobooks.com/products/2143-envisioning-real-utopias
 [group]: https://global.oup.com/academic/product/group-duties-9780198840275?cc=us&lang=en&
+[public-goods]: https://plato.stanford.edu/entries/public-goods/
