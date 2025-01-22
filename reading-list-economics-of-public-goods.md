@@ -12,16 +12,17 @@ Contact me for PDFs.
 * “[Envisioning Real Utopias][utopias]” by Erik Olin Wright, see section on Wikipedia starting p 201. The main useful
   point is that, though people like Eric S Raymond think Open Source contributors are motivated by prestige, the example
   of Wikipedia offers a counterpoint to this.
+* “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy.
+* “[Mutuality: Critique and substitute for Belk’s ‘sharing’][arnould]” by Eric J Arnould and Alexander S Rose.
 
 ## Queue
 
-* “[Public Goods][public-goods]” by Julian Reiss in the Stanford Encyclopedia of Philosophy.
 * “[Markets without Symbolic Limits][symbolic]” by Brennan et al.
 * “[Group Duties][group]” by Stephanie Collins.
 
 ## General Points
 
-* Open Source is not a gift economy (see Weber p 149–156, Hénaff p 71–74).
+* Open Source is not a gift economy (see Weber p 149–156, Hénaff p 71–74, Arnould et al p 3).
 
 [ppe]: https://en.wikipedia.org/wiki/Externality#Positive
 [tirole]: https://www.aeaweb.org/articles?id=10.1257%2F0895330054048678
@@ -32,3 +33,4 @@ Contact me for PDFs.
 [utopias]: https://www.versobooks.com/products/2143-envisioning-real-utopias
 [group]: https://global.oup.com/academic/product/group-duties-9780198840275?cc=us&lang=en&
 [public-goods]: https://plato.stanford.edu/entries/public-goods/
+[arnould]: https://journals.sagepub.com/doi/full/10.1177/1470593115572669
