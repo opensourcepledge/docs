@@ -3,17 +3,34 @@
 \usepackage[yyyymmdd]{datetime}
 \usepackage{lmodern}
 \usepackage[htt]{hyphenat}
-\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
 \usepackage{xcolor}
 \usepackage[skip=3mm, indent=0mm]{parskip}
 \usepackage[sfdefault]{librefranklin}
 \usepackage{multicol}
-\usepackage{svg}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{calc}
 
-\geometry{a4paper, left=12mm, top=12mm, bottom=12mm, right=12mm}
+\geometry{a4paper, left=14mm, top=14mm, bottom=14mm, right=14mm}
 \setlength{\columnsep}{8mm}
 \renewcommand{\baselinestretch}{1.1}
 \pagenumbering{gobble}
+
+\newcommand{\placetextbox}[4][center]{%
+  % [#1]: box anchor: center (default) |
+  %     south west | west | north west | north |
+  %     north east | east | south east | south |
+  %     mid west | mid | mid east |
+  %     base west | base | base east
+  % #2: horizontal position (fraction of page width)
+  % #3: vertical position (fraction of page height)
+  % #4: content
+  \tikz[remember picture,overlay,x=\paperwidth,y=\paperheight]{%
+    \node[anchor=#1,inner sep=0pt]
+    at ($(current page.south west)+(#2,#3)$) {#4};
+  }%
+}
 
 \definecolor{color-primary}{HTML}{2dde74}
 \definecolor{color-secondary}{HTML}{9e86ff}

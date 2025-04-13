@@ -4,5 +4,7 @@
 *.ltx
 *.out
 *.pdf
+!assets/**/*.pdf
 _minted*/
 svg-inkscape/
+assets/**/*.svg
