@@ -1,4 +1,4 @@
-\documentclass[12pt,a4paper,notitlepage]{article}
+\documentclass[12pt,a4paper]{article}
 \usepackage{geometry}
 \usepackage[yyyymmdd]{datetime}
 \usepackage{lmodern}
@@ -11,8 +11,9 @@
 \usepackage{svg}
 
 \geometry{a4paper, left=12mm, top=12mm, bottom=12mm, right=12mm}
-\setlength{\columnsep}{12mm}
-\renewcommand{\baselinestretch}{1.15}
+\setlength{\columnsep}{8mm}
+\renewcommand{\baselinestretch}{1.1}
+\pagenumbering{gobble}
 
 \definecolor{color-primary}{HTML}{2dde74}
 \definecolor{color-secondary}{HTML}{9e86ff}
@@ -20,4 +21,4 @@
 \definecolor{color-light-bg}{HTML}{16212d}
 \pagecolor{color-bg}
 \color{white}
-\pagenumbering{gobble}
+\newcommand\boldprim[1]{\textcolor{color-primary}{\textbf{#1}}}
