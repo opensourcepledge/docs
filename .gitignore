@@ -1,0 +1,8 @@
+*.aux
+*.listing
+*.log
+*.ltx
+*.out
+*.pdf
+_minted*/
+svg-inkscape/
